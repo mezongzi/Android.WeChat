@@ -1,0 +1,10 @@
+C:\xm\git\Android.WeChat\Android.WeChat\Android.WeChat\bin\Debug\Android.WeChat.exe.config
+C:\xm\git\Android.WeChat\Android.WeChat\Android.WeChat\bin\Debug\Android.WeChat.exe
+C:\xm\git\Android.WeChat\Android.WeChat\Android.WeChat\bin\Debug\Android.WeChat.pdb
+C:\xm\git\Android.WeChat\Android.WeChat\Android.WeChat\obj\Debug\Android.WeChat.csprojAssemblyReference.cache
+C:\xm\git\Android.WeChat\Android.WeChat\Android.WeChat\obj\Debug\Android.WeChat.Demo.resources
+C:\xm\git\Android.WeChat\Android.WeChat\Android.WeChat\obj\Debug\Android.WeChat.Properties.Resources.resources
+C:\xm\git\Android.WeChat\Android.WeChat\Android.WeChat\obj\Debug\Android.WeChat.csproj.GenerateResource.cache
+C:\xm\git\Android.WeChat\Android.WeChat\Android.WeChat\obj\Debug\Android.WeChat.csproj.CoreCompileInputs.cache
+C:\xm\git\Android.WeChat\Android.WeChat\Android.WeChat\obj\Debug\Android.WeChat.exe
+C:\xm\git\Android.WeChat\Android.WeChat\Android.WeChat\obj\Debug\Android.WeChat.pdb
